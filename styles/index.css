@@ -23,3 +23,10 @@ body #hero #background{
     height: 100vh;
     z-index: -1;
 }
+
+body #slidebar{
+    position: fixed;
+    left: 30px;
+    bottom: 100px;
+    z-index: 0
+}
