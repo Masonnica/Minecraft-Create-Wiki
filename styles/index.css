@@ -16,6 +16,7 @@ body #hero{
     z-index: -1;
     display: flex;
     justify-content: center;
+    justify-items: center;
 }
 
 body #hero #background{
@@ -33,6 +34,6 @@ body #hero #background{
 body #sidebar{
     position: fixed;
     left: 30px;
-    top: calc(100vh - 100px);
+    top: calc(100vh - 200px);
     z-index: 0;
 }
