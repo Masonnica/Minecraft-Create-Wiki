@@ -20,7 +20,11 @@ body #hero{
 }
 
 body #hero #heading{
-    color: #fefefe;
+    position: fixed;
+    width: 80vw;
+    height: 80vh;
+    object-fit: cover;
+    object-position: center;
     z-index: 0;
     display: block;
 }
