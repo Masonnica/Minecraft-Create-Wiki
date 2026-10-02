@@ -19,6 +19,10 @@ body #hero{
     justify-items: center;
 }
 
+body #hero #heading{
+    color: #fefefe;
+}
+
 body #hero #background{
     position: fixed;
     top: 0;
