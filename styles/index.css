@@ -4,7 +4,7 @@ body{
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-color: #000000;
+    background-color: #0a0a0a;
 }
 
 body #hero{
@@ -21,6 +21,10 @@ body #hero{
 
 body #hero #heading{
     color: #fefefe;
+}
+
+body #hero #subheading{
+    color: #fefefe
 }
 
 body #hero #background{
