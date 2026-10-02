@@ -22,11 +22,13 @@ body #hero{
 body #hero #heading{
     color: #fefefe;
     z-index: 0;
+    display: block;
 }
 
 body #hero #subheading{
     color: #fefefe;
-    z-index: 
+    z-index: 0;
+    display: block;
 }
 
 body #hero #background{
