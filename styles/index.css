@@ -25,11 +25,10 @@ body #hero #background{
     z-index: -1;
     object-fit: cover;
     object-position: center;
-    display: block
+    display: block;
 }
 
-body #slidebar{
-    display: none;
+body #sidebar{
     position: fixed;
     left: 30px;
     top: calc(100vh - 100px);
